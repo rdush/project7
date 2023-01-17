@@ -27,3 +27,4 @@
 `sudo yum install mysql -y`
 `mysql -h 172.31.84.152 -u webaccess -p tooling < tooling-db.sql`
 
+![the tooling home page](./images/home%20page.pn)
